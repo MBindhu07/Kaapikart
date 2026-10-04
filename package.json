@@ -1,0 +1,11 @@
+{
+  "name": "kaapikart",
+  "version": "1.0.0",
+  "description": "Capstone: browser-persisted e-commerce storefront with simulated auth, catalog, cart and admin CRUD.",
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve .",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
